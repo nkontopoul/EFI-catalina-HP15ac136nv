@@ -20,8 +20,8 @@ How to install:
 3)Reboot your system
 
 
-Please, make sure that you are aware of the needed mods for because I have not included them for obvious reasons:
-https://www.tonymacx86.com/threads/an-idiots-guide-to-imessage.196827/
+Please, make sure that you are aware of the needed mods for making your new mac unique, because I have not included them for obvious reasons:
+https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#using-gensmbios
 
 You are free to modify and test further.
 
