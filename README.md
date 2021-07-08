@@ -9,9 +9,12 @@ They have been used with the latest version of OpenCore 0.7
 It has been tested and works fine with Catalina 10.15.7
 
 What is NOT working so far:
-wifi (I have used a cheap external usb adapter RTL8188CUS that works fine. Driver is included thanks to https://github.com/chris1111/Wireless-USB-Adapter)
-bluetooth
-Radeon gpu
+
+ 1) wifi (I have used a cheap external usb adapter RTL8188CUS that works fine. Driver is included thanks to https://github.com/chris1111/Wireless-USB-Adapter)
+ 2) camera
+ 3) Radeon gpu
+ 4) bluetooth
+
 
 How to install:
 
