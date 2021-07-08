@@ -13,7 +13,14 @@ wifi (I have used a cheap external usb adapter RTL8188CUS that works fine. Drive
 bluetooth
 Radeon gpu
 
-Please, make sure that you are aware of the needed mods for:
+How to install:
+
+1)Use a free program like EFI Mounter v3.1 in order to mount the EFI partition of your hd
+2)Unzip the file EFI.zip to that folder...this will also make your hd bootable in case that you still use a usb boot.
+3)Reboot your system
+
+
+Please, make sure that you are aware of the needed mods for because I have not included them for obvious reasons:
 https://www.tonymacx86.com/threads/an-idiots-guide-to-imessage.196827/
 
 You are free to modify and test further.
